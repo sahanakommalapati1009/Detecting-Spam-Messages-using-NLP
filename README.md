@@ -33,7 +33,7 @@ This repository contains a complete project for detecting spam messages using Na
 * Flask: For creating the web application.
 * Heroku: For deploying the application online.
 * Python Libraries:
- - pandas: For dataset preprocessing.
- - scikit-learn: For feature extraction and machine learning.
- - pickle: For saving and loading the trained model.
- - gunicorn: For serving the application on Heroku.
+  - pandas: For dataset preprocessing.
+  - scikit-learn: For feature extraction and machine learning.
+  - pickle: For saving and loading the trained model.
+  - gunicorn: For serving the application on Heroku.
